@@ -1,5 +1,5 @@
 # Relogio
-Projeto final do curso de Eletronica Digital em VHDL, que consiste em simular um relogio digital na placa FPGA. Para isso, utiliza-se o display de 7 segmentos da placa.
+Projeto final do minicurso de Eletronica Digital em VHDL, que consiste em simular um relogio digital na placa FPGA. Para isso, utiliza-se o display de 7 segmentos da placa.
 Porem, a placa esta limitada a mostrar apenas 4 digitos por vez, enquanto que a simulacao deve levar em conta as horas, minutos e segundos, totalizando 6 digitos.
 A solucao encontrada foi configurar uma chave que possibilite alternar mm:ss e hh:mm.
 Por exemplo, utilizemos 13 horas, 25 minutos e 43 segundos, ou seja, 13:25:43.
